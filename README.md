@@ -1,10 +1,10 @@
 # Project # 36: Kubernetes Engineering Case Studies
 
-Real-world case studies from 3+ years of hands-on Kubernetes engineering work. Each case documents a problem I encountered on a live production environment, the technical decision I made, and the outcome. No theory, no tutorials — these are things I actually built, debugged, and shipped.
+Real-world case studies from 3+ years of hands-on Kubernetes engineering work. Each case documents a problem I encountered on a live production environment, the technical decision I made, and the outcome. 
 
 ## Context
 
-All 28 case studies come from a single long-term engagement with a US-based enterprise SaaS platform running 100+ API microservices across multi-region Kubernetes clusters. My role was Senior Kubernetes Engineer, responsible for cluster operations, service mesh management, observability, GitOps pipelines, and infrastructure migrations.
+All 28 case studies come from a single long-term engagement with a US-based enterprise SaaS platform running 400+ API microservices across multi-region Kubernetes clusters. My role was Senior Kubernetes Engineer, responsible for cluster operations, service mesh management, observability, GitOps pipelines, and infrastructure migrations.
 
 **Core stack:** Kubernetes, Istio, ArgoCD, FluxCD, Helm, Prometheus, Grafana, Loki, Tempo, Mimir, Jaeger, Kiali, Elasticsearch, Kibana, Auth0
 
