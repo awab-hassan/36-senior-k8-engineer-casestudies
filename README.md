@@ -1,6 +1,6 @@
 # Project # 36: Kubernetes Engineering Case Studies
 
-Real-world case studies from 3+ years of hands-on Kubernetes engineering work. Each case documents a problem I encountered on a live production environment, the technical decision I made, and the outcome. 
+![Architecture Diagram](./architecture.png)
 
 ## Context
 
